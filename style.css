@@ -34,11 +34,6 @@
 .border2{
     text-align: center;
 }
-.border-shadow{
-    box-shadow: 5px 5px 10px lightgray;
-    text-align: center;
-    margin-bottom: 15px;
-}
 .border{
     box-shadow: 5px 5px 10px lightgray;
 }
